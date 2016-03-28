@@ -5,7 +5,6 @@ this.addEventListener('install', function(event) {
 				'/',
 				'/index.htm',
 				'/index_files',
-				'/index_files/*',
 				'/main.js',
 				'/sw3.js'
 			]);
