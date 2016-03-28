@@ -1,7 +1,7 @@
 if(navigator.serviceWorker) {
 	navigator
 		.serviceWorker
-		.register('sw.js')
+		.register('sw2.js')
 		.then(function(r) {
 			console.log('Cats are now available offline');
 		})
